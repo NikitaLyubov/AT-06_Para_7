@@ -11,6 +11,10 @@
 **Профилизация filter_with_filename.py** :
 ![img_1.png](filter_with_filename.jpg)
 
+Время выполнения filter.py: 14200 ms
+Время выполнения old-filter.py: 6101 ms
+Время выполнения filter_with_filename.py: 35 ms
+
 **Исходное изображение** :
 
 ![](dog.jpg)
